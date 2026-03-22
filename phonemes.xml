@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<phonemes>
+  <phoneme name="a" vc="+" vlng="s" vheight="1" vfront="2" vrnd="-"/>
+  <phoneme name="e" vc="+" vlng="s" vheight="2" vfront="2" vrnd="-"/>
+  <phoneme name="i" vc="+" vlng="s" vheight="3" vfront="3" vrnd="-"/>
+  <phoneme name="is" vc="-" son="+" cont="+" ctype="r" cplace="p" cvox="+"/>
+  <phoneme name="o" vc="+" vlng="s" vheight="2" vfront="1" vrnd="+"/>
+  <phoneme name="u" vc="+" vlng="s" vheight="3" vfront="1" vrnd="+"/>
+  <phoneme name="ih" vc="+" vlng="a" vheight="2" vfront="2" central="+" vrnd="-"/>
+  <phoneme name="y" vc="+" vlng="s" vheight="3" vfront="2" central="+" vrnd="-"/>
+
+  <phoneme name="ea" vc="+" vlng="d" vheight="2" vfront="2" vrnd="-"/>
+  <phoneme name="oa" vc="+" vlng="d" vheight="2" vfront="1" vrnd="+"/>
+  <phoneme name="ai" vc="+" vlng="d" vheight="1" vfront="2" vrnd="-"/>
+  <phoneme name="au" vc="+" vlng="d" vheight="1" vfront="2" vrnd="-"/>
+  <phoneme name="ihi" vc="+" vlng="d" vheight="2" vfront="2" central="+" vrnd="-"/>
+  <phoneme name="ihu" vc="+" vlng="d" vheight="2" vfront="2" central="+" vrnd="-"/>
+  <phoneme name="yi" vc="+" vlng="d" vheight="3" vfront="2" central="+" vrnd="-"/>
+  <phoneme name="yu" vc="+" vlng="d" vheight="3" vfront="2" central="+" vrnd="-"/>
+  <phoneme name="ei" vc="+" vlng="d" vheight="2" vfront="2" vrnd="-"/>
+  <phoneme name="eu" vc="+" vlng="d" vheight="2" vfront="2" vrnd="-"/>
+  <phoneme name="oi" vc="+" vlng="d" vheight="2" vfront="1" vrnd="+"/>
+  <phoneme name="ou" vc="+" vlng="d" vheight="2" vfront="1" vrnd="+"/>
+  <phoneme name="ui" vc="+" vlng="d" vheight="3" vfront="1" vrnd="+"/>
+  <phoneme name="ia" vc="+" vlng="d" vheight="3" vfront="3" vrnd="-"/>
+  <phoneme name="ie" vc="+" vlng="d" vheight="3" vfront="3" vrnd="-"/>
+  <phoneme name="io" vc="+" vlng="d" vheight="3" vfront="3" vrnd="-"/>
+  <phoneme name="iu" vc="+" vlng="d" vheight="3" vfront="3" vrnd="-"/>
+  <phoneme name="ua" vc="+" vlng="d" vheight="3" vfront="1" vrnd="+"/>
+  <phoneme name="ue" vc="+" vlng="d" vheight="3" vfront="1" vrnd="+"/>
+  <phoneme name="uo" vc="+" vlng="d" vheight="3" vfront="1" vrnd="+"/>
+
+  <phoneme name="b" vc="-" son="-" cont="-" ctype="s" cplace="b" cvox="+" vpair="p"/>
+  <phoneme name="ch" vc="-" son="-" cont="-" ctype="a" csib="+" cor="+" cplace="p" cvox="-" vpair="dzh"/>
+  <phoneme name="d" vc="-" son="-" cont="-" ctype="s" cor="+" cplace="a" cvox="+" vpair="t"/>
+  <phoneme name="dzh" vc="-" son="-" cont="-" ctype="a" csib="+" cor="+" cplace="p" cvox="+" vpair="ch"/>
+  <phoneme name="f" vc="-" son="-" cont="+" ctype="f" cplace="l" cvox="-" vpair="v"/>
+  <phoneme name="g" vc="-" son="-" cont="-" ctype="s" cplace="v" cvox="+" vpair="k"/>
+  <phoneme name="h" vc="-" son="-" cont="+" ctype="f" cplace="g" cvox="-"/>
+  <phoneme name="j" vc="-" son="+" cont="+" ctype="r" cplace="p" cvox="+"/>
+  <phoneme name="k" vc="-" son="-" cont="-" ctype="s" cplace="v" cvox="-" vpair="g"/>
+  <phoneme name="l" vc="-" son="+" cont="+" ctype="l" cplace="a" cvox="+"/>
+  <phoneme name="m" vc="-" son="+" cont="-" ctype="n" cplace="l" cvox="+"/>
+  <phoneme name="n" vc="-" son="+" cont="-" ctype="n" cplace="a" cvox="+"/>
+  <phoneme name="p" vc="-" son="-" cont="-" ctype="s" cplace="b" cvox="-" vpair="b"/>
+  <phoneme name="r" vc="-" son="+" cont="+" ctype="r" cplace="a" cvox="+"/>
+  <phoneme name="s" vc="-" son="-" cont="+" ctype="f" csib="+" cor="+" cplace="a" cvox="-" vpair="z"/>
+  <phoneme name="sh" vc="-" son="-" cont="+" ctype="f" csib="+" cor="+" cplace="p" cvox="-" vpair="zh"/>
+  <phoneme name="t" vc="-" son="-" cont="-" ctype="s" cor="+" cplace="a" cvox="-" vpair="d"/>
+  <phoneme name="ts" vc="-" son="-" cont="-" ctype="a" csib="+" cor="+" cplace="a" cvox="-" vpair="z"/>
+  <phoneme name="v" vc="-" son="-" cont="+" ctype="f" cplace="l" cvox="+" vpair="f"/>
+  <phoneme name="z" vc="-" son="-" cont="+" ctype="f" csib="+" cor="+" cplace="a" cvox="+" vpair="s"/>
+  <phoneme name="zh" vc="-" son="-" cont="+" ctype="f" csib="+" cor="+" cplace="p" cvox="+" vpair="sh"/>
+
+  <phoneme name="pau"/>
+</phonemes>
